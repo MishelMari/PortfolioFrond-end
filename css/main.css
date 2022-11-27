@@ -2021,7 +2021,7 @@ input::-moz-focus-inner {
     background-color: #02182c;
     background-repeat: no-repeat;
     background-position: top center;
-    background-image: url(../images/hero-pic.jpg);
+    background-image: url(../images/IMG_1002.JPG);
     background-size: cover;
     position: absolute;
     top: 20%;
@@ -3528,7 +3528,7 @@ footer a:visited {
 }
 
 .ss-go-top::after {
-    content: "Вернуться на верх";
+    content: "Повернутись на верх";
     display: block;
     float: left;
     width: 170px;
